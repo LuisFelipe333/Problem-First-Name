@@ -2,6 +2,7 @@
 /shelf/
 /workspace.xml
 
+# Package Files #
 *.xml
 *.iml
 *.class
